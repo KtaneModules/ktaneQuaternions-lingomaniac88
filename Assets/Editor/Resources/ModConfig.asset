@@ -14,11 +14,11 @@ MonoBehaviour:
   id: quaternions
   title: Quaternions
   author: lingomaniac88
-  description: "Quaternions v1.0\r\n\n\"Quaternions came from Hamilton after his really
-    good work had been done; and, though beautifully ingenious, have been an unmixed
-    evil to those who have touched them in any way, including Clerk Maxwell.\"\n\r--
+  description: "Quaternions v1.0\r.1\n\n\"Quaternions came from Hamilton after his
+    really good work had been done; and, though beautifully ingenious, have been an
+    unmixed evil to those who have touched them in any way, including Clerk Maxwell.\"\n\r--
     William Thomson, Lord Kelvin\n\r\nModule ID: quaternions\r\n\r\nCreated by: lingomaniac88\r\n\r\nTP
     supported\n\nManual available here: https://ktane.timwi.de/HTML/Quaternions.html"
-  version: 1.0
+  version: 1.0.1
   outputFolder: build
   previewImage: {fileID: 2800000, guid: ba1539422673cea439653dbd3965fe7e, type: 3}
